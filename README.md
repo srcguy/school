@@ -1,2 +1,2 @@
 # school
-school stuff
+school stuff. c++, python and maybe html
