@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!"; //show some text on your terminal
+    cout << "Hello World!"; //shows some text on your terminal
     return 0; //gives us '0' as a result
 }
