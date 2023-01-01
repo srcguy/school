@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int a = 5, b = 2; //definites some variables//'int' means 'integer', in Polish 'liczba całkowita'
+int a = 5, b = 2; //defines some variables//'int' means 'integer', in Polish 'liczba całkowita'
 
 int main()
 {
