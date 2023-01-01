@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int a ,b; //definites some variables//'int' means 'integer', in Polish 'liczba całkowita'
+int a ,b; //defines some variables//'int' means 'integer', in Polish 'liczba całkowita'
 
 int main()
 {
@@ -17,7 +17,7 @@ int main()
     else
     {
         cout << "We couldn't divide by zero!\nI set 'b' to '1'!\n"; //shows text in firts and second row
-        b = 1; //definites variable
+        b = 1; //defines variable
         cout << a << "/" << b << "=" << a / b; //shows text and variables and some calculations//we need to use '<<' to separate text from variables
     }
     return 0; //gives us '0' as a result
