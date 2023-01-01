@@ -2,9 +2,9 @@
 
 using namespace std;
 
-int n; //definites some variables//'int' means 'integer', in Polish 'liczba całkowita'
+int n; //defines some variables//'int' means 'integer', in Polish 'liczba całkowita'
 
-int add(int a) //definites function 'add' with parameter 'a'
+int add(int a) //defines function 'add' with parameter 'a'
 {
     return a + a; //return 'a + a'//in this case, 'n + n'
 }
